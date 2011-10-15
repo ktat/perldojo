@@ -19,7 +19,7 @@
 
 =item 3.
 
- substr($string, 2, 3) = '';
+ substr($string, 2, 3, '');
 
 =item 4.
 
